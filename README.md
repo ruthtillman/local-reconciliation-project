@@ -1,6 +1,9 @@
 # Pull It Together! Creating, Reconciling, and Updating Author Data in Fedora 3 and 4
 
-Presentation delivered at the DC area Fedora User Group Meeting on October 8, 2015 and its supporting files.
+Presentation delivered at the DC area Fedora User Group Meeting on October 8, 2015 and its supporting files. Presentation and PDF both have full text of presentation.
+
+* [Presentation PPT](/Pull-It-Together-FUG-2015-10-08.pptx)
+* [Presentation PDF](/Pull-It-Together-FUG-2015-10-08.pdf)
 
 ## Files
 
