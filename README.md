@@ -1,9 +1,18 @@
-# Pull It Together! Creating, Reconciling, and Updating Author Data in Fedora 3 and 4
+# Pull It Together! 
 
-Presentation delivered at the DC area Fedora User Group Meeting on October 8, 2015 and its supporting files. Presentation and PDF both have full text of presentation.
+The project was published in Code4Lib Journal, as [Extracting, Augmenting, and Updating Metadata in Fedora 3 and 4 Using a Local OpenRefine Reconciliation Service](http://journal.code4lib.org/articles/11179). These supporting files, links, and presentations have been used to share the workflow process in other contexts.
 
-* [Presentation PPT](/Pull-It-Together-FUG-2015-10-08.pptx)
-* [Presentation PDF](/Pull-It-Together-FUG-2015-10-08.pdf)
+## As Presented at Ohio Valley Group of Technical Services Librarians 2016 Conference
+
+* [Presentation PPTX](/OVGTSL/Pull-It-Together-OVGTSL-2016-05-26.pptx)
+* [Presentation PDF](/OVGTSL/Pull-It-Together-OVGTSL-2016-05-26.pdf)
+
+## As Presented at Fedora User Group
+
+Presentation delivered at the DC area Fedora User Group Meeting on October 8, 2015. Presentation and PDF both have full text of presentation.
+
+* [Presentation PPTX](/Fedora-User-Group/Pull-It-Together-FUG-2015-10-08.pptx)
+* [Presentation PDF](/Fedora-User-Group/Pull-It-Together-FUG-2015-10-08.pdf)
 
 ## Files
 
